@@ -31,3 +31,4 @@ console.log("Here is the min value of array B :" + findmin(arrB,arrB.length));
 
 console.log(findmax(arrB,arrB.length));
 console.log(findmin(arrB,arrB.length));
+// console log with "" is a string, without is an int
