@@ -36,3 +36,5 @@ while (numChoice != 'q'){
 }
 console.log("You've chosen to quit. Bye");
 
+//stoquer les jours dqns un array
+
