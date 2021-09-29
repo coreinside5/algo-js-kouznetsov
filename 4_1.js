@@ -13,3 +13,7 @@ lgtSurf = parseInt(readlineSync.question("Enter the length of the rectangle	:"))
 wdtSurf = parseInt(readlineSync.question("Enter the width of the rectangle	:"));
 
 console.log("The surface of the rectangle with length	:" + lgtSurf + " and width	:" + wdtSurf + " is	:" + calcSurface(lgtSurf,wdtSurf));
+// correction
+/*
+
+*/

@@ -4,7 +4,7 @@ then it calculate distance between two points and return the value of this calcu
 function calcDistance (pt1,pt2)
 {
 	let dist = 0;
-	dist = Math.sqrt(Math.pow((pt2Arr [1] - pt1Arr [1]), 2)+Math.pow((pt2Arr [0] - pt1Arr[0] ), 2));	
+	dist = Math.sqrt( Math.pow ((pt2Arr [1] - pt1Arr [1]), 2)+Math.pow((pt2Arr [0] - pt1Arr[0] ), 2));	
 	return dist;
 }
 let pt1Arr = [];

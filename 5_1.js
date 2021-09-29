@@ -37,9 +37,12 @@ function askTvSerie ()
 	}
 	return series;
 }
-askTvSerie();
+
 //console.log(series.name);
 //console.log(series.prodyear);
 //console.log(series.cast);
-console.log(series);
+console.log(askTvSerie());
 
+// JSON.stringify
+// notation $ dans console log
+	

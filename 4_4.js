@@ -39,6 +39,7 @@ function multiRand(ar ,n)
 	for ( let count = 0; count < n; count += 1) {
 		ar[count] = Math.floor(Math.random() * 10) + 1;
 	}
+	return ar;
 }
 
 
