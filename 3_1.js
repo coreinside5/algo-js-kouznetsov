@@ -19,7 +19,8 @@ for (let elem of arrB){
 	sumB += elem;
 	console.log("Sum is " + sumB);
 }
-
+//foreach() pour array
+//arr.forEach ()
 
 
 

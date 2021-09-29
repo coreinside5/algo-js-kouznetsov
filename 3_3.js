@@ -31,4 +31,4 @@ arrB = arrA.slice();
 for ( count = 0; count < arrB.length; count += 1) {
 	output += (arrB[count] + " ");
 }
-console.log(output);
+console.log(output)
